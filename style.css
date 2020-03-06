@@ -1,11 +1,14 @@
-/* CSS files add styling rules to your content */
+/* votre code CSS */
 
-body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+p {
+  font-size: 40px;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+#mapid {
+  height: 550px;
+  width: 550px;
+}
+
+span {
+  text-decoration-thickness: underline 10px;
 }
